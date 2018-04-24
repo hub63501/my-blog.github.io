@@ -228,11 +228,18 @@ input[type=button]:hover{
   -webkit-border-radius: 0.1em;
   border-radius: 0.1em;
   padding: 10px;
-  -webkit-transition-duration: 0.5s; /* Safari */
+  /*
   transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  */
+  
 }
 .post-list li:hover{
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+    border-bottom: #2979ff solid 3px;
+    border-right: #2979ff solid 3px;
 }
 
 
@@ -682,7 +689,7 @@ footer h4:hover{
 
 footer li{
   padding: 15px;
-  margin: 0;
+  margin: 0%;
   text-align: left;
 }
 footer li:hover{
