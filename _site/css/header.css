@@ -22,6 +22,9 @@
 }
 */
 
+.site-header{
+    border: none;
+}
 
 .trigger {
   padding: 8px;
