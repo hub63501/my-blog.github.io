@@ -30,12 +30,12 @@
   padding: 8px;
 }
 
-/*
+
 .site-header{
       overflow: auto;
       white-space: nowrap;
     }
-*/
+
 .site-header a{
       display: inline-block;
       color: inherit;

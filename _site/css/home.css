@@ -30,13 +30,63 @@ Home
 }
 
 
+.front-heading{
+  text-align: center;
+  width: 100%;
+}
+
+@media screen and (max-width: 500px){
+  .front-heading{
+    margin: 0%;
+    padding: 0px;
+    text-align: left;
+  }
+}
+
 /*-----Bigger screens-----*/
 @media screen and (min-width: 800px){
   .post-list li{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 2%;
     width: 30%;
     display: inline-block;
   }
 }
 
 
+@media screen and (max-width: 800px){
+  .post-list li{
+    border-bottom: #2979ff solid 2px;
+    border-right: #2979ff solid 2px;
+  }
+}
+
+
+.page-heading{
+  font-size: 3em;
+}
+
+
+
+.post-list li{
+  border-top: solid 1px #2979FF;
+  border-left: solid 1px #2979ff;
+  -moz-border-radius: 0.1em;
+  -webkit-border-radius: 0.1em;
+  border-radius: 0.1em;
+  padding: 10px;
+  /*
+  transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  */
+  
+}
+.post-list li:hover{
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+    border-bottom: #2979ff solid 3px;
+    border-right: #2979ff solid 3px;
+}
 
