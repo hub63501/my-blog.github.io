@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Picture of spring!"
+date:   2018-05-03 12:05:58 +0100
+categories: pictures
+---
+
+Spring is here.
+
+![Spring_pic]({{ "/assets/Pics/DSC03240" | absolute_url }})
