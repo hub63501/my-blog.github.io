@@ -9,5 +9,6 @@ Spring is here.
 
 ![Springpic]({{ "assets/img/spring.JPG" | absolute_url }})
 
-<img name="springimg" src="assets/Pics/spring.jpg"/>
+test
+![Springpic]({{ "assets/img/icepho.JPG" | absolute_url }})
 
