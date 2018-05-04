@@ -7,6 +7,8 @@ categories: pictures
 
 Spring is here.
 
-![Springpic]({{ "Pics/spring.jpg" | absolute_url }})
+![Springpic]({{ "assets/Pics/spring.jpg" | absolute_url }})
 
-<img name="springimg" src="/Pics/spring.jpg"/>
+<img name="springimg" src="assets/Pics/spring.jpg"/>
+
+![Springpic]({{ "/assets/Pics/spring.jpg" | absolute_url }})
