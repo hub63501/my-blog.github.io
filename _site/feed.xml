@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jun 2018 10:44:35 +0100</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 10:44:35 +0100</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 11:02:19 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 11:02:19 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -34,7 +34,7 @@
         <title>Picture of spring!</title>
         <description>&lt;p&gt;Spring is here.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fi0.wp.com%2Fhdwallpaperssys.com%2Fwp-content%2Fuploads%2F2015%2F02%2FCute-Looking-Tulips-Spring-Flowers.jpg&amp;amp;f=1&quot; alt=&quot;Springpic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/spring.JPG&quot; alt=&quot;Springpic&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 03 May 2018 12:05:58 +0100</pubDate>
