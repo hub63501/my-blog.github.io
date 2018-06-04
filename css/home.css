@@ -21,12 +21,12 @@ Home
   width: 100%;
 }
 .post-list ul{
-  display: block;/*
+  display: flex;
   flex-wrap: wrap;
   align-content: flex-start;
   width: 100%; 
   overflow: auto;
-  white-space: nowrap;*/ 
+  white-space: nowrap; 
 }
 
 
@@ -50,7 +50,7 @@ Home
     margin-right: 0%;
     margin-bottom: 2%;
     width: auto;
-    display: block;
+    display: inline-block;
   }
 }
 
