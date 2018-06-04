@@ -10,6 +10,6 @@ My world cup group predictions.
 
 Might update this closer to the world cup but this is it at the moment.
 
-![worldcupgroup]({{ " my-blog.github.io/assets/img/Screenshot.png " | absolute_url }})
+![worldcupgroup]({{ " /assets/img/Screenshot.png " | absolute_url }})
 
 
