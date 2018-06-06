@@ -29,6 +29,10 @@ html{
 }
 body{
     color: #000000;
+    background-image: url("/assets/img/background_01.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     margin: 0px;
 }
 a{
@@ -150,7 +154,7 @@ input[type=button]:hover{
     width: 100%;
     padding-left: 50px;
     padding-right: 50px;
-    background-color: #ECEFF1;
+    background-color: #ECEFF1;    
     }
 .Front-title-inner{
     padding-left: 10px;

@@ -7,10 +7,13 @@ Home
 
 
 .home{
-  background-color: #f6f9fc;
+  background-color: #f2f5f9;
+
+
   color: #000000;
-  border-top: 1px solid #9E9E9E;
-  padding: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 5px;
+  border-radius: 5px;
   
 }
 
@@ -70,6 +73,7 @@ Home
 
 
 .post-list li{
+  background-color: #fcfcfd;
   border-top: solid 1px #2979FF;
   border-left: solid 1px #2979ff;
   -moz-border-radius: 0.1em;

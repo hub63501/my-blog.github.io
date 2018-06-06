@@ -7,6 +7,6 @@ categories: pictures
 
 Spring is here.
 
-![Springpic]({{ " /assets/img/spring.JPG" }})
+![Springpic]({{ " /assets/img/spring.JPG " }})
 
 
