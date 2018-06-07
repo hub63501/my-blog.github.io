@@ -5,7 +5,7 @@ date:   2018-06-07 07:55:58 +0100
 categories: world-cup
 ---
 
-My World cup predictions using the <a href="https://www.telegraph.co.uk/football/world-cup-2018-wallchart-predictor/">telegraph predictor</a>.
+My World cup predictions using the <a href="https://www.telegraph.co.uk/football/world-cup-2018-wallchart-predictor/" target="_blank">telegraph predictor</a>.
 
 <h2>Group Stages</h2>
 
