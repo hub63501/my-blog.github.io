@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "World cup predictions!"
+title:  "World cup predictions!(old)"
 date:   2018-05-30 12:05:58 +0100
-categories: world cup
+categories: world-cup
 ---
 
 My world cup group predictions. 
