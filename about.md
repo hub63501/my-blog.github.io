@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Hey there welcome to my blog.
+{{site.description}}
+

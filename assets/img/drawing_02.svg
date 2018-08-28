@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="561.25984"
+     inkscape:cx="245.25984"
      inkscape:cy="497.3757"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1533"
-     inkscape:window-height="837"
-     inkscape:window-x="67"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,36 +101,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-87)"
-     style="display:inline;opacity:1">
-    <rect
-       style="opacity:0.89600004;fill:#33ccff;fill-opacity:1;stroke:none;stroke-width:0.12527119;stroke-opacity:1"
-       id="rect218"
-       width="80"
-       height="80"
-       x="102.81845"
-       y="152" />
-    <rect
-       style="opacity:0.89600004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11224259;stroke-opacity:1"
-       id="rect222"
-       width="80.130943"
-       height="5.2916656"
-       x="102.81845"
-       y="152" />
-    <rect
-       style="display:inline;opacity:0.89600004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13383879;stroke-opacity:1"
-       id="rect222-6"
-       width="79.752968"
-       height="7.5595226"
-       x="102.80953"
-       y="175.66963" />
-    <rect
-       style="display:inline;opacity:0.89600004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13383879;stroke-opacity:1"
-       id="rect222-3"
-       width="79.752968"
-       height="7.5595226"
-       x="102.80952"
-       y="199.86012" />
-  </g>
+     style="display:inline;opacity:1" />
   <g
      inkscape:groupmode="layer"
      id="layer5"

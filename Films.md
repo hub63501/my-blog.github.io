@@ -1,6 +1,0 @@
----
-title: Films
-layout: page
-
- 
----

@@ -2,13 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G-H-IO</title>
-    <description>Hey welcome content is on the way.
+    <description>Hey there this website is to show case what projects I have been working on recently. Thank you for visiting.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Jun 2018 11:01:12 +0100</pubDate>
-    <lastBuildDate>Thu, 07 Jun 2018 11:01:12 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Aug 2018 16:41:10 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Aug 2018 16:41:10 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Premier league predictions using python</title>
+        <description>&lt;p&gt;Here are my predictions using a few data sets including goals scored chances created from last season.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;Sort by club_score&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+[(780.0, ‘Manchester_city’)]&lt;br /&gt;
+[(688.0, ‘Liverpool’)]&lt;br /&gt;
+[(649.0, ‘Tottenham’)]&lt;br /&gt;
+[(646.0, ‘Chelsea’)]&lt;br /&gt;
+[(585.0, ‘Manchester_utd’)]&lt;br /&gt;
+[(585.0, ‘Arsenal’)]&lt;br /&gt;
+[(423.0, ‘Bournmouth’)]&lt;br /&gt;
+[(413.0, ‘Burnly’)]&lt;br /&gt;
+[(408.0, ‘Crystal_palace’)]&lt;br /&gt;
+[(404.0, ‘Newcastle’)]&lt;br /&gt;
+[(404.0, ‘Leicester’)]&lt;br /&gt;
+[(393.0, ‘Southampton’)]&lt;br /&gt;
+[(392.0, ‘Watford’)]&lt;br /&gt;
+[(351.0, ‘West_Ham’)]&lt;br /&gt;
+[(347.0, ‘Brighton’)]&lt;br /&gt;
+[(337.0, ‘Everton’)]&lt;br /&gt;
+[(322.0, ‘Huddersfield’)]&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;promoted&lt;br /&gt;
+[(504.0, ‘Fulham’)]&lt;br /&gt;
+[(491.0, ‘Wolves’)]&lt;br /&gt;
+[(488.0, ‘Cardiff’)]&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sort club by defence score&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;[(84.0, ‘Bournmouth’)]&lt;br /&gt;
+[(82.0, ‘Arsenal’)]&lt;br /&gt;
+[(80.0, ‘West_Ham’)]&lt;br /&gt;
+[(80.0, ‘Southampton’)]&lt;br /&gt;
+[(79.0, ‘Huddersfield’)]&lt;br /&gt;
+[(77.0, ‘Watford’)]&lt;br /&gt;
+[(76.0, ‘Everton’)]&lt;br /&gt;
+[(73.0, ‘Leicester’)]&lt;br /&gt;
+[(72.0, ‘Crystal_palace’)]&lt;br /&gt;
+[(66.0, ‘Brighton’)]&lt;br /&gt;
+[(61.0, ‘Newcastle’)]&lt;br /&gt;
+[(55.0, ‘Tottenham’)]&lt;br /&gt;
+[(54.0, ‘Chelsea’)]&lt;br /&gt;
+[(47.0, ‘Liverpool’)]&lt;br /&gt;
+[(46.0, ‘Manchester_utd’)]&lt;br /&gt;
+[(46.0, ‘Burnly’)]&lt;br /&gt;
+[(45.0, ‘Manchester_city’)]&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;promoted&lt;br /&gt;
+[(65.0, ‘Fulham’)]&lt;br /&gt;
+[(54.0, ‘Cardiff’)]&lt;br /&gt;
+[(56.0, ‘Wolves’)]&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sort by club by attack score&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+[(625.0, ‘Manchester_city’)]&lt;br /&gt;
+[(585.0, ‘Liverpool’)]&lt;br /&gt;
+[(560.0, ‘Chelsea’)]&lt;br /&gt;
+[(550.0, ‘Tottenham’)]&lt;br /&gt;
+[(541.0, ‘Arsenal’)]&lt;br /&gt;
+[(469.0, ‘Manchester_utd’)]&lt;br /&gt;
+[(419.0, ‘Bournmouth’)]&lt;br /&gt;
+[(401.0, ‘Southampton’)]&lt;br /&gt;
+[(392.0, ‘Crystal_palace’)]&lt;br /&gt;
+[(387.0, ‘Watford’)]&lt;br /&gt;
+[(383.0, ‘Leicester’)]&lt;br /&gt;
+[(377.0, ‘Newcastle’)]&lt;br /&gt;
+[(351.0, ‘Burnly’)]&lt;br /&gt;
+[(347.0, ‘West_Ham’)]&lt;br /&gt;
+[(333.0, ‘Brighton’)]&lt;br /&gt;
+[(327.0, ‘Huddersfield’)]&lt;br /&gt;
+[(315.0, ‘Everton’)]&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;promoted&lt;br /&gt;
+[(547.0, ‘Wolves’)]&lt;br /&gt;
+[(542.0, ‘Cardiff’)]&lt;br /&gt;
+[(569.0, ‘Fulham’)]&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Aug 2018 09:55:58 +0100</pubDate>
+        <link>http://yourdomain.com/update/2018/08/12/premier-league-predictions.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/update/2018/08/12/premier-league-predictions.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>World cup predictions update</title>
@@ -43,40 +132,6 @@ However knowing France and their tendancy to have problems in previous world cup
         
         
         <category>world-cup</category>
-        
-      </item>
-    
-      <item>
-        <title>World cup predictions!(old)</title>
-        <description>&lt;p&gt;My world cup group predictions.&lt;/p&gt;
-
-&lt;p&gt;Might update this closer to the world cup but this is it at the moment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshot.png&quot; alt=&quot;worldcupgroup&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 30 May 2018 12:05:58 +0100</pubDate>
-        <link>http://yourdomain.com/world-cup/2018/05/30/my-world-cup-group-predictions.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/world-cup/2018/05/30/my-world-cup-group-predictions.html</guid>
-        
-        
-        <category>world-cup</category>
-        
-      </item>
-    
-      <item>
-        <title>Picture of spring!</title>
-        <description>&lt;p&gt;Spring is here.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/spring.JPG&quot; alt=&quot;Springpic&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 May 2018 12:05:58 +0100</pubDate>
-        <link>http://yourdomain.com/pictures/2018/05/03/Picture-of-spring.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/pictures/2018/05/03/Picture-of-spring.html</guid>
-        
-        
-        <category>pictures</category>
         
       </item>
     
