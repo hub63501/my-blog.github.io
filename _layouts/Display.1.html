@@ -1,0 +1,29 @@
+<!Doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+{%include header.html%}
+<div class="wrapper">
+
+
+<div class="display-class-1-inner">
+<h1 class="page-heading">{{page.title}}</h1>
+</div>
+<div class="display-class-1-inner">
+<h2 class="page-heading">{{page.description}}</h2>
+</div>
+
+
+
+
+
+<div class="display-class-1-inner">
+{{ content }}
+</div>
+
+
+
+</div>
+{% include footer.html %}
+</body>
+</html>
