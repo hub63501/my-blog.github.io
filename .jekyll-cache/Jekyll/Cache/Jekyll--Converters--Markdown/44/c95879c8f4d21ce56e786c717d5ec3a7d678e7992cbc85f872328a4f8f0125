@@ -1,0 +1,81 @@
+I"�!<p>Here are my predictions using a few data sets including goals scored chances created from last season.</p>
+
+<p><strong><em>Sort by club_score</em></strong></p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="p">[(</span><span class="mf">780.0</span><span class="p">,</span> <span class="s">'Manchester_city'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">688.0</span><span class="p">,</span> <span class="s">'Liverpool'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">649.0</span><span class="p">,</span> <span class="s">'Tottenham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">646.0</span><span class="p">,</span> <span class="s">'Chelsea'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">585.0</span><span class="p">,</span> <span class="s">'Manchester_utd'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">585.0</span><span class="p">,</span> <span class="s">'Arsenal'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">423.0</span><span class="p">,</span> <span class="s">'Bournmouth'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">413.0</span><span class="p">,</span> <span class="s">'Burnly'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">408.0</span><span class="p">,</span> <span class="s">'Crystal_palace'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">404.0</span><span class="p">,</span> <span class="s">'Newcastle'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">404.0</span><span class="p">,</span> <span class="s">'Leicester'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">393.0</span><span class="p">,</span> <span class="s">'Southampton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">392.0</span><span class="p">,</span> <span class="s">'Watford'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">351.0</span><span class="p">,</span> <span class="s">'West_Ham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">347.0</span><span class="p">,</span> <span class="s">'Brighton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">337.0</span><span class="p">,</span> <span class="s">'Everton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">322.0</span><span class="p">,</span> <span class="s">'Huddersfield'</span><span class="p">)]</span>
+
+
+<span class="n">promoted</span>
+<span class="p">[(</span><span class="mf">504.0</span><span class="p">,</span> <span class="s">'Fulham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">491.0</span><span class="p">,</span> <span class="s">'Wolves'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">488.0</span><span class="p">,</span> <span class="s">'Cardiff'</span><span class="p">)]</span></code></pre></figure>
+
+<p><strong><em>Sort club by defence score</em></strong></p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="p">[(</span><span class="mf">84.0</span><span class="p">,</span> <span class="s">'Bournmouth'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">82.0</span><span class="p">,</span> <span class="s">'Arsenal'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">80.0</span><span class="p">,</span> <span class="s">'West_Ham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">80.0</span><span class="p">,</span> <span class="s">'Southampton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">79.0</span><span class="p">,</span> <span class="s">'Huddersfield'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">77.0</span><span class="p">,</span> <span class="s">'Watford'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">76.0</span><span class="p">,</span> <span class="s">'Everton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">73.0</span><span class="p">,</span> <span class="s">'Leicester'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">72.0</span><span class="p">,</span> <span class="s">'Crystal_palace'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">66.0</span><span class="p">,</span> <span class="s">'Brighton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">61.0</span><span class="p">,</span> <span class="s">'Newcastle'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">55.0</span><span class="p">,</span> <span class="s">'Tottenham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">54.0</span><span class="p">,</span> <span class="s">'Chelsea'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">47.0</span><span class="p">,</span> <span class="s">'Liverpool'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">46.0</span><span class="p">,</span> <span class="s">'Manchester_utd'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">46.0</span><span class="p">,</span> <span class="s">'Burnly'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">45.0</span><span class="p">,</span> <span class="s">'Manchester_city'</span><span class="p">)]</span></code></pre></figure>
+
+<p>promoted
+[(65.0, ‘Fulham’)]
+[(54.0, ‘Cardiff’)]
+[(56.0, ‘Wolves’)]</p>
+
+<p><strong><em>Sort by club by attack score</em></strong></p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="p">[(</span><span class="mf">625.0</span><span class="p">,</span> <span class="s">'Manchester_city'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">585.0</span><span class="p">,</span> <span class="s">'Liverpool'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">560.0</span><span class="p">,</span> <span class="s">'Chelsea'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">550.0</span><span class="p">,</span> <span class="s">'Tottenham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">541.0</span><span class="p">,</span> <span class="s">'Arsenal'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">469.0</span><span class="p">,</span> <span class="s">'Manchester_utd'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">419.0</span><span class="p">,</span> <span class="s">'Bournmouth'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">401.0</span><span class="p">,</span> <span class="s">'Southampton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">392.0</span><span class="p">,</span> <span class="s">'Crystal_palace'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">387.0</span><span class="p">,</span> <span class="s">'Watford'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">383.0</span><span class="p">,</span> <span class="s">'Leicester'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">377.0</span><span class="p">,</span> <span class="s">'Newcastle'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">351.0</span><span class="p">,</span> <span class="s">'Burnly'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">347.0</span><span class="p">,</span> <span class="s">'West_Ham'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">333.0</span><span class="p">,</span> <span class="s">'Brighton'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">327.0</span><span class="p">,</span> <span class="s">'Huddersfield'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">315.0</span><span class="p">,</span> <span class="s">'Everton'</span><span class="p">)]</span>
+
+
+
+<span class="n">promoted</span>
+<span class="p">[(</span><span class="mf">547.0</span><span class="p">,</span> <span class="s">'Wolves'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">542.0</span><span class="p">,</span> <span class="s">'Cardiff'</span><span class="p">)]</span>
+<span class="p">[(</span><span class="mf">569.0</span><span class="p">,</span> <span class="s">'Fulham'</span><span class="p">)]</span></code></pre></figure>
+
+:ET

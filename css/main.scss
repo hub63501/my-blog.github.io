@@ -5,7 +5,6 @@
 
 
 
-// Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
@@ -15,16 +14,16 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$linkColor:        #FF177F;
+$background-color: #f6f9fc;
+$brand-color:      #408AF8;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
 
+$content-width:    1000px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
@@ -51,3 +50,169 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+.header-title{
+  font-family: 'Josefin Sans', sans-serif, Arial;
+  text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    width: 100%;
+    height: 100%;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+}
+
+
+/*Base css
+
+    font-style: 'Josefin Sans', sans-serif, Arial;
+
+    font-family: 'Inconsolata', monospace;
+
+    font-family: 'Oxygen', sans-serif;
+
+    font-family: 'Abril Fatface', cursive;
+
+
+
+
+*/
+
+
+
+img {
+    border-radius: 0.5em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+
+.block-one{width: 25%; border: #fff 1px solid; margin: 0.2em; padding: 1em;}
+.block-two{width: 65%; border: #000 1px solid; margin: 0.2em; padding: 1em; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.block-three{width: 100%; border: #fff 1px solid; margin: 0.2em; padding: 1em; text-align: left; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+@media screen and (max-width: 700px){
+
+  .block-one{width: 100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 0.5em; padding: 2em;}
+  .block-two{width: 100%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 0.5em; padding: 2em;}
+  .block-three{width: 100%; border: #fff 1px solid; margin: 0.5em; padding: 2em;}
+
+}
+
+
+
+
+/*tachion header style*/
+.dib {
+    display: inline-block;
+}
+
+.fw6 {
+    font-weight: 600;
+}
+
+.tracked {
+    letter-spacing: .1em;
+}
+
+.link {
+    text-decoration: none;
+    transition: color .15s ease-in;
+}
+
+.link:link, .link:visited {
+    transition: color .15s ease-in;
+}
+
+.link:hover {
+    transition: color .15s ease-in;
+}
+
+.link:active {
+    transition: color .15s ease-in;
+}
+
+.link:focus {
+    transition: color .15s ease-in;
+    outline: 1px dotted currentColor;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.fixed {
+    position: fixed;
+}
+
+.white {
+    color: #fff;
+}
+
+.bg-black-90 {
+    background-color: rgba(0, 0, 0, .9);
+}
+
+.pv3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.ph3 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.mr3 {
+    margin-right: 1rem;
+}
+
+.ttu {
+    text-transform: uppercase;
+}
+
+.f6 {
+    font-size: .875rem;
+}
+
+.dim {
+    opacity: 1;
+    transition: opacity .15s ease-in;
+}
+
+.dim:hover, .dim:focus {
+    opacity: .5;
+    transition: opacity .15s ease-in;
+}
+
+.dim:active {
+    opacity: .8;
+    transition: opacity .15s ease-out;
+}
+
+@media screen and (min-width: 30em) {
+    .pv4-ns {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .ph4-m {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .ph5-l {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+}

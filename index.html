@@ -4,26 +4,35 @@ layout: default
 
 <img src="/assets/img/DSC03238.JPG">
 
-<div class="home">
-
-
-<h1 class="page-heading">Welcome</h1>
-
-<h2 class="page-heading">{{site.description}}</h2>
-
-<h1 class="page-heading">Posts</h1>
-
+<div class="center">
+<div class="pa4">
+<h1 class="header-title">#Welcome</h1>
+<p class="">
+<span class="db-ns f6 fw7 lh-solid mb3 mb0-m mb4-l"></span>
+<span class="fw9 f6 f1-l db lh-title mb3 mb4-l"></span>
+<span class="db-l measure-wide">
+{{site.description}}</span>
+</p>
+<p>
+  I will be posting about all kinds of things that are around the internet with sources and files. Hopefully you find them as interesting as I do.
+</p>
+</div>
+</div>
+<h2 class="right">Posts</h2>
+<hr>
 <ul class="post-list">
 {% for post in site.posts %}
-<li>
+<li class="card">
 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 <h2>
 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 </h2>
-<h4>{{post.excerpt}}</h4>
+<p>{{ post.description }}</p>
+<img src="{{post.img}}" title=""/>
 </li>
 
 {% endfor %}
 </ul>
+
+
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>

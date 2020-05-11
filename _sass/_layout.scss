@@ -194,7 +194,9 @@
     font-size: 24px;
 }
 
-
+.page-img img{
+  border-radius: 50%; border: 2px solid black; width: 50%;
+}
 
 /**
  * Posts
@@ -204,13 +206,14 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
+	color: #222;
+	transition: color .3s ease;
+	margin: .1em 0;
+  font-size: 3em;
+	&:hover {
+		color: $grey-color;
+		border-bottom: 0;
+	}
 }
 
 .post-content {
