@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Justice What the Bible says.
+title: "Justice: What the Bible says."
 permalink: /bible-and-justice/
 description: What the bible says about Justice.
 ---
