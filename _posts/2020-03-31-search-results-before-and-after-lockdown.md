@@ -46,6 +46,6 @@ Jamie Oliver had some interest as people went from eating in restaurants to cook
 
 <img src="/assets/img/jamieoliver.png">
 
-There hasn't been much of a spike in search results in God but i suppose you don't go to google to find God.
+There hasn't been much of a spike in search results in God but I suppose you don't go to google to find God.
 
 <img src="/assets/img/godinsearch.png">
