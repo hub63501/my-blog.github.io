@@ -7,32 +7,51 @@ layout: default
 <div class="center">
 <div class="pa4">
 <h1 class="header-title">#Welcome</h1>
-<p class="">
-<span class="db-ns f6 fw7 lh-solid mb3 mb0-m mb4-l"></span>
-<span class="fw9 f6 f1-l db lh-title mb3 mb4-l"></span>
-<span class="db-l measure-wide">
-{{site.description}}</span>
-</p>
-<p>
-  I will be posting about all kinds of things that are around the internet with sources and files. Hopefully you find them as interesting as I do.
-</p>
+<div class="container">
+  
+  
+  <div class="block-three">
+    <span class="db-l measure-wide">
+      {{site.description}}
+    </span>
+  </div>
+  <div class="block-two">
+    <h3># Contact Details</h3>
+    <ul>
+       <li> email: <a href="mailto:{{ site.email }}">{{ site.email }}</a> </li>
+       
+       <li> Instagram: {{site.instagram_username}} </li>
+       
+       <li> Residence: Currently living in Brighton.</li>
+     </ul>  
+  </div>
+  <div class="block-one"><div class=""><img src="/assets/img/profile_pic.JPG"/></div></div>
+ 
+</div>
+
 </div>
 </div>
-<h2 class="right">Posts</h2>
-<hr>
-<ul class="post-list">
-{% for post in site.posts %}
-<li class="card">
-<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-<h2>
-<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-</h2>
-<p>{{ post.description }}</p>
-<img src="{{post.img}}" title=""/>
-</li>
-
-{% endfor %}
-</ul>
-
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="container">
+<div class="block-three">
+  <h2 class="right">Posts</h2>
+  <hr>
+  <ul class="post-list">
+  {% for post in site.posts %}
+  <li class="card">
+  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <h2>
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+  <p>{{ post.description }}</p>
+  <img src="{{post.img}}" title=""/>
+  </li>
+  
+  {% endfor %}
+  </ul>
+  
+  
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  
+</div>
+</div>
+</div>
