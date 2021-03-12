@@ -2,17 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G-H-IO</title>
-    <description>Hey there this website is to show case what projects I have been working on recently. Thank you for visiting.
+    <description>Hey there! This website is where i'll be posting ideas and thoughts i have and articles, books and podcasts that have an interesting idea. Thank you for visiting.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Aug 2020 09:59:59 +0100</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2020 09:59:59 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Fri, 12 Mar 2021 11:18:48 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Mar 2021 11:18:48 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Fun and Laughter</title>
+        <description>&lt;h3&gt;What makes you laugh?&lt;/h3&gt;
+
+&lt;p&gt;Here is a look at some questions that might make you smile.&lt;/p&gt;&lt;p&gt; Just it seems like the world needs a little uplift. There needs to be laughter everyday.&lt;/p&gt;</description>
+        <pubDate>Thu, 11 Mar 2021 08:55:58 +0000</pubDate>
+        <link>http://localhost:4000/update/2021/03/11/fun-and-laughter.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2021/03/11/fun-and-laughter.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Money getting hacked</title>
+        <description>&lt;h3&gt;What happens when money gets hacked?&lt;/h3&gt;
+&lt;p&gt;Money feels like it is on the brink of getting hacked.&lt;/p&gt;
+&lt;p&gt;What i mean by hacked is that it is going to lose it's value and people will trade with what they find valuable.&lt;/p&gt;</description>
+        <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/bible-and-justice/</link>
+        <guid isPermaLink="true">http://localhost:4000/bible-and-justice/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Justice: What the Bible says.</title>
-        <description>&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; src=&quot;https://www.youtube-nocookie.com/embed/A14THPoc4-4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; src=&quot;https://www.youtube-nocookie.com/embed/A14THPoc4-4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 31 May 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/bible-and-justice/</link>
@@ -23,13 +49,13 @@
     
       <item>
         <title>Before and After Lock-down: In search results.</title>
-        <description>&lt;h1 id=&quot;how-does-the-lockdown-searches-on-google-show-how-priorities-change&quot;&gt;How does the lockdown searches on google show how priorities change.&lt;/h1&gt;
+        <description># How does the lockdown searches on google show how priorities change.
 
-&lt;p&gt;I thought i would have a look at a few web trends on google trends to see how web searches have changed over the course of the past few days to see what people turn to when there is an emergency. Seeing that there are no loo rolls or pasta in the shops i was curious to see what are some of the other items and services people lean on when times feel frightening and strange.&lt;/p&gt;
+I thought i would have a look at a few web trends on google trends to see how web searches have changed over the course of the past few days to see what people turn to when there is an emergency. Seeing that there are no loo rolls or pasta in the shops i was curious to see what are some of the other items and services people lean on when times feel frightening and strange.
 
 &lt;div class=&quot;card&quot;&gt;
 &lt;p&gt;Comparing Delivery topic and Resturaunt topic.&lt;/p&gt;
-&lt;img src=&quot;/assets/img/Screenshotdeliveryvsrest.png&quot; /&gt;
+&lt;img src=&quot;/assets/img/Screenshotdeliveryvsrest.png&quot;/&gt;
 
   &lt;script type=&quot;text/javascript&quot; src=&quot;https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js&quot;&gt;&lt;/script&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
@@ -40,34 +66,34 @@
 
 &lt;p&gt;In the U.S there is a significant surge in searches for delivery and a drop in searching for restaurants as the restaurants close and people have to eat in.&lt;/p&gt;
 
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js&quot;&gt;&lt;/script&gt;
 
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   trends.embed.renderExploreWidget(&quot;TIMESERIES&quot;, {&quot;comparisonItem&quot;:[{&quot;keyword&quot;:&quot;/m/035bpb&quot;,&quot;geo&quot;:&quot;GB&quot;,&quot;time&quot;:&quot;2019-03-31 2020-03-31&quot;},{&quot;keyword&quot;:&quot;/m/06l8d&quot;,&quot;geo&quot;:&quot;GB&quot;,&quot;time&quot;:&quot;2019-03-31 2020-03-31&quot;}],&quot;category&quot;:0,&quot;property&quot;:&quot;&quot;}, {&quot;exploreQuery&quot;:&quot;geo=GB&amp;q=%2Fm%2F035bpb,%2Fm%2F06l8d&amp;date=today 12-m,today 12-m&quot;,&quot;guestPath&quot;:&quot;https://trends.google.com:443/trends/embed/&quot;});
 &lt;/script&gt;
-
 &lt;p&gt;Key : Blue - Milk || Red - Bread&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/Screenshotmilkbread.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/Screenshotmilkbread.png&quot;/&gt;
 &lt;p&gt;The rise in essential goods rises in search results in the UK: in this case its milk and bread.&lt;/p&gt;
 
-&lt;p&gt;Amazon is also a company who looks to profit from people not being able to go to the shops.&lt;/p&gt;
+Amazon is also a company who looks to profit from people not being able to go to the shops.
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/amazonsearch.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/amazonsearch.png&quot; /&gt;
 
-&lt;p&gt;Obviously there was a spike in interest in toilet roll. Here is a link to possibly why there was an extra interest in &lt;a href=&quot;https://news.sky.com/story/coronavirus-why-are-people-panic-buying-and-why-toilet-paper-11952397&quot; target=&quot;_blank&quot;&gt;toilet roll&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/toiletroll.png&quot; /&gt;&lt;/p&gt;
+Obviously there was a spike in interest in toilet roll. Here is a link to possibly why there was an extra interest in &lt;a href=&quot;https://news.sky.com/story/coronavirus-why-are-people-panic-buying-and-why-toilet-paper-11952397&quot; target=&quot;_blank&quot;&gt;toilet roll&lt;/a&gt;.
 
-&lt;p&gt;There was also a spike in garlic in hong kong??
-&lt;img src=&quot;/assets/img/garlicinhongky.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/toiletroll.png&quot;&gt;
 
-&lt;p&gt;Jamie Oliver had some interest as people went from eating in restaurants to cooking more.&lt;/p&gt;
+There was also a spike in garlic in hong kong??
+&lt;img src=&quot;/assets/img/garlicinhongky.png&quot;&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/jamieoliver.png&quot; /&gt;&lt;/p&gt;
+Jamie Oliver had some interest as people went from eating in restaurants to cooking more.
 
-&lt;p&gt;There hasn’t been much of a spike in search results in God but I suppose you don’t go to google to find God.&lt;/p&gt;
+&lt;img src=&quot;/assets/img/jamieoliver.png&quot;&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/godinsearch.png&quot; /&gt;&lt;/p&gt;
+There hasn't been much of a spike in search results in God but I suppose you don't go to google to find God.
+
+&lt;img src=&quot;/assets/img/godinsearch.png&quot;&gt;
 </description>
         <pubDate>Tue, 31 Mar 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/search-results-before-and-after-lock-down/</link>
@@ -78,9 +104,10 @@
     
       <item>
         <title>Premier league predictions using python</title>
-        <description>&lt;p&gt;Here are my predictions using a few data sets including goals scored chances created from last season.&lt;/p&gt;
+        <description>Here are my predictions using a few data sets including goals scored chances created from last season.
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sort by club_score&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+***Sort by club_score***
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;780.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Manchester_city'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;688.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Liverpool'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
@@ -105,9 +132,7 @@
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;504.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Fulham'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;491.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Wolves'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;488.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Cardiff'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sort club by defence score&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
+***Sort club by defence score***
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;84.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Bournmouth'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;82.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Arsenal'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;80.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'West_Ham'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
@@ -126,13 +151,12 @@
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;46.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Burnly'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;45.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Manchester_city'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;promoted
-[(65.0, ‘Fulham’)]
-[(54.0, ‘Cardiff’)]
-[(56.0, ‘Wolves’)]&lt;/p&gt;
+promoted
+[(65.0, 'Fulham')]
+[(54.0, 'Cardiff')]
+[(56.0, 'Wolves')]
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sort by club by attack score&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
+***Sort by club by attack score***
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;625.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Manchester_city'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;585.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Liverpool'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;560.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Chelsea'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
@@ -157,7 +181,6 @@
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;547.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Wolves'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;542.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Cardiff'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;569.0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Fulham'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
 </description>
         <pubDate>Sun, 12 Aug 2018 09:55:58 +0100</pubDate>
         <link>http://localhost:4000/update/2018/08/12/premier-league-predictions.html</link>
@@ -170,30 +193,30 @@
     
       <item>
         <title>World cup predictions update</title>
-        <description>&lt;p&gt;My World cup predictions using the &lt;a href=&quot;https://www.telegraph.co.uk/football/world-cup-2018-wallchart-predictor/&quot; target=&quot;_blank&quot;&gt;telegraph predictor&lt;/a&gt;.&lt;/p&gt;
+        <description>My World cup predictions using the &lt;a href=&quot;https://www.telegraph.co.uk/football/world-cup-2018-wallchart-predictor/&quot; target=&quot;_blank&quot;&gt;telegraph predictor&lt;/a&gt;.
 
 &lt;h2&gt;Group Stages&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/groupwc.png&quot; alt=&quot;group stage&quot; /&gt;&lt;/p&gt;
+![group stage]( /assets/img/groupwc.png )
 
 &lt;h2&gt;Round 16&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/round16.png&quot; alt=&quot;round 16&quot; /&gt;&lt;/p&gt;
+![round 16]( /assets/img/round16.png )
 
 &lt;h2&gt;Quarter Finals&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/quarterfinals.png&quot; alt=&quot;quarter finals&quot; /&gt;&lt;/p&gt;
+![quarter finals]( /assets/img/quarterfinals.png )
 
 &lt;h2&gt;Semi Finals&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/semi-finals.png&quot; alt=&quot;semi finals&quot; /&gt;&lt;/p&gt;
+![semi finals]( /assets/img/semi-finals.png )
 
 &lt;h2&gt;Final&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/final.png&quot; alt=&quot;final&quot; /&gt;&lt;/p&gt;
+![final]( /assets/img/final.png )
 
-&lt;p&gt;France will win the World cup then…
-However knowing France and their tendancy to have problems in previous world cups they probably won’t be but I think they have the best squad.&lt;/p&gt;
+France will win the World cup then...
+However knowing France and their tendancy to have problems in previous world cups they probably won't be but I think they have the best squad.
 </description>
         <pubDate>Thu, 07 Jun 2018 07:55:58 +0100</pubDate>
         <link>http://localhost:4000/world-cup/2018/06/07/world-cup-predictions.html</link>
