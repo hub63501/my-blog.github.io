@@ -6,33 +6,38 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Mar 2021 11:18:48 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Mar 2021 11:18:48 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Mar 2021 12:36:16 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Mar 2021 12:36:16 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>What challenges you</title>
+        <description>&lt;h3&gt;What challenges us and what offends us?&lt;/h3&gt;
+&lt;p&gt;We have a lost in culture and what have we lost.&lt;/p&gt;</description>
+        <pubDate>Wed, 17 Mar 2021 10:55:58 +0000</pubDate>
+        <link>http://localhost:4000/What-challenges-us/</link>
+        <guid isPermaLink="true">http://localhost:4000/What-challenges-us/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fun and Laughter</title>
         <description>&lt;h3&gt;What makes you laugh?&lt;/h3&gt;
 
-&lt;p&gt;Here is a look at some questions that might make you smile.&lt;/p&gt;&lt;p&gt; Just it seems like the world needs a little uplift. There needs to be laughter everyday.&lt;/p&gt;</description>
+&lt;p&gt; Just it seems like the world needs a little uplift. There needs to be laughter everyday.&lt;/p&gt;
+
+&lt;p&gt;One way I get laughter is by going to these subreddits.&lt;/p&gt;
+
+&lt;a href=&quot;https://www.reddit.com/r/AnimalsBeingBros/&quot; target=&quot;_blank&quot;&gt;AnimalsBeingBros&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&quot;https://www.reddit.com/r/Jokes/&quot; target=&quot;_blank&quot;&gt;Jokes&lt;/a&gt;</description>
         <pubDate>Thu, 11 Mar 2021 08:55:58 +0000</pubDate>
         <link>http://localhost:4000/update/2021/03/11/fun-and-laughter.html</link>
         <guid isPermaLink="true">http://localhost:4000/update/2021/03/11/fun-and-laughter.html</guid>
         
         
         <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Money getting hacked</title>
-        <description>&lt;h3&gt;What happens when money gets hacked?&lt;/h3&gt;
-&lt;p&gt;Money feels like it is on the brink of getting hacked.&lt;/p&gt;
-&lt;p&gt;What i mean by hacked is that it is going to lose it's value and people will trade with what they find valuable.&lt;/p&gt;</description>
-        <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bible-and-justice/</link>
-        <guid isPermaLink="true">http://localhost:4000/bible-and-justice/</guid>
-        
         
       </item>
     
